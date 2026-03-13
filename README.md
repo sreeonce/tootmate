@@ -1,4 +1,4 @@
-# TooTmate
+# TooTMate
 A Gamified Study Companion for Students
 	
 ## Introduction
